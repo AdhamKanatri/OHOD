@@ -78227,7 +78227,7 @@ break
 case 2:p=""
 for(n=0;n<j.length;++n){i=p
 m=j[n]
-p=J.aqe(i,m.b+" => "+m.f+" Pieces,\n\n")}l=q.c+A.uE(B.GQ,"Please make quotation with these items below:\n\n"+A.j(p)+" I am waiting you to confirm the order.",B.ac,!1)
+p=J.aqe(i,m.b+" => "+m.f+" Pieces,\n\n")}l=q.c+A.uE(B.GQ,"Please transfer these items below:\n\n"+A.j(p)+" I am waiting you to confirm the order.",B.ac,!1)
 s=8
 return A.a6(A.aph(A.kF(l,0,null)),$async$$0)
 case 8:s=b?5:7
